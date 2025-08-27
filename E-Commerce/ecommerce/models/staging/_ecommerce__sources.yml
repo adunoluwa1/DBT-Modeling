@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: main
+    tables:
+      - name: users
+      - name: raw_products
+      - name: orders
+      - name: order_items
+      - name: inventory_items
+      - name: events
